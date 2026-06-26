@@ -1,0 +1,6 @@
+{
+  "name": "USSD Dialer",
+  "description": "A simple web app that triggers a mobile USSD code when clicked.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
